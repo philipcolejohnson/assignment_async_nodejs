@@ -1,0 +1,9 @@
+{
+  "name": "assignment_async_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:philipcolejohnson/assignment_async_nodejs.git",
+  "author": "Philip Cole Johnson <philipcolejohnson@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
